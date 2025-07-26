@@ -2,8 +2,10 @@ import * as index from "./src/index";
 
 export const doing = index.doingAny;
 
-const _package = {
-    
+const snp = {
+    drive: ()=>{
+        console.log("drive")
+    }
 }
 
-export default _package;
+export default snp;
