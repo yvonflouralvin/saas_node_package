@@ -1,0 +1,13 @@
+{
+  "name": "@saas-cd/js",
+  "version": "1.0.0",
+  "main": "dist/index.ts",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc --outDir dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yvonflouralvin/saas_node_module.git"
+  }
+}
