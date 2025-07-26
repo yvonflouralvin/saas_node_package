@@ -1,5 +1,5 @@
 {
-  "name": "@saas-cd/js",
+  "name": "@saas-cd/saas_node_package",
   "version": "1.0.0",
   "main": "dist/index.ts",
   "types": "dist/index.d.ts",
@@ -8,6 +8,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yvonflouralvin/saas_node_module.git"
+    "url": "https://github.com/yvonflouralvin/saas_node_package.git"
   }
 }
