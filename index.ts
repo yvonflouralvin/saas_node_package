@@ -1,7 +1,9 @@
 import * as index from "./src/index";
 
+export const doing = index.doingAny;
+
 const _package = {
-    doing: index.doingAny,
+    
 }
 
 export default _package;
